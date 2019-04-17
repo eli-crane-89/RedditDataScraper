@@ -1,0 +1,10 @@
+[Credentials]
+ClientID=[ClientID]
+ClientSecret=[ClientSecret]
+UserAgent=[UserAgent]
+UserName=[UserName]
+Password=[Password]
+
+[Database]
+Server=mongodb://localhost:27017/
+Instance=Posts
